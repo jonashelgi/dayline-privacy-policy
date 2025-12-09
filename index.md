@@ -12,7 +12,7 @@ Read how Dayline collects, uses, and protects your information:
 ## 📘 Terms of Service
 Read the rules and conditions for using Dayline:
 
-➡️ **[View Terms of Service](./terms-and-conditions.md)**
+➡️ **[View Terms & conditions](./terms-and-conditions.md)**
 
 ---
 
